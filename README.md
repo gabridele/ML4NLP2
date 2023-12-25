@@ -1,1 +1,1 @@
-
+Currently working on my Machine Learning for NLP 2 final exam - a project on Deep Active Learning. This repository is used as a backup and to keep track of progress. It is constantly updated until the final version.
